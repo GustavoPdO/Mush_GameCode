@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Player1
+  - Player2
+  - Damage1
+  - Damage2
+  - Background
+  - Scenario
+  - Ground
+  - GroundNotPlataform
+  - Hazard
+  - Elevator
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - Scenario
+  - Player1
+  - Player2
+  - Damage1
+  - Damage2
+  - Ground
+  - GroundNotPlataform
+  - Hazard
+  - Elevator
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3696376699
+    locked: 0
+  - name: Scenario
+    uniqueID: 1998483845
+    locked: 0
+  - name: Ground
+    uniqueID: 1992389099
+    locked: 0
+  - name: Damage
+    uniqueID: 1686231595
+    locked: 0
+  - name: Player
+    uniqueID: 399552753
+    locked: 0
+  - name: Hazard
+    uniqueID: 1945638587
+    locked: 0
+  - name: Overlay
+    uniqueID: 1288598151
+    locked: 0

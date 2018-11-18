@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24412356262cf534c967f7a3a87714cc, type: 3}
+  m_Name: New Character 1
+  m_EditorClassIdentifier: 
+  characterName: Char1
+  movementSpeed: 1250
+  moveJumpModifier: 0.8
+  jumpForce: 1000
+  jumpDecay: 200
+  maxJumpSpeed: 20
+  maxHealth: 100
+  damageDelay: 0
+  defense: 3
+  attack: 10
+  maxQtdAttacks: 3
+  bulletPrefab: {fileID: 1389664181340274, guid: 0b368392e97480c4aa489be027557385,
+    type: 2}
+  bulletSpeed: 1200
+  bulletLifeTime: 1.5
+  bulletQuantity: 5
+  bulletSpread: 10
