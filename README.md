@@ -1,5 +1,7 @@
 # Mush_GameCode
 
+### Itch.io page - https://mushcompany.itch.io/mush
+
 ## Welcome to M.U.S.H!
 M.U.S.H is a fast-paced 2D arena brawler game where you and your friend each choose a character with unique abilities and fight to the death in a battlefield of your choice. 
 
@@ -13,37 +15,37 @@ So, what are you waiting for? Call a friend and battle it out to see who is the 
 
 ## Character Guide
 ### Ronnie (the big sword dude):
-Defensive skill: Parry
+ - Defensive skill: Parry
 He enters a defensive stance that cancels enemy attacks and then returns all the damage canceled to the opponent.
 
-Offensive skill: Dive Attack
+ - Offensive skill: Dive Attack
 Dashes forward and unleashes a upward slash at the end.
 
-Ultimate (we also like to call that M.U.S.H.): Overdrive 
+ - Ultimate (we also like to call that M.U.S.H.): Overdrive 
 Ronnie gains an attack and speed bonus! Also, the sword has higher reach!
 
 
 
 ### Jorge (the shotgun dude that likes front and back flips):
-Defensive skill: Tactical Retreat
+ - Defensive skill: Tactical Retreat
 Jorge jumps backwards while tossing a granade. The granade applies root to the enemy hit.
 
-Offensive skill: Gravity Bomb 
+ - Offensive skill: Gravity Bomb 
 Calls a airstrike that drops a gravity bomb in the place designated, pulling the opponent hit towards its center.
 
-Ultimate (M.U.S.H.): Bazooka
+ - Ultimate (M.U.S.H.): Bazooka
 Jorge equips a bazooka and launches a missile in the direction he is looking. Small tip: try to combo this skill with the root or gravity bomb abilities!
 
 
 
 ### Buzzy (our revolver jetpack-flying dude):
-Defensive skill: Launch!
+ - Defensive skill: Launch!
 Buzzy can use his jetpack for a time period, meaning he can literally fly anywhere he wants. To fly, keep pressing the jump button to go higher and higher.
 
-Offensive skill: Deploy!
+ - Offensive skill: Deploy!
 Buzzy deploys a turret at his position that attacks wherever he is pointing at in a straight line. After a while, the turret commits sepuku and explodes (why, we don't know).
 
-Ultimate (M.U.S.H.): Rain of Justice
+ - Ultimate (M.U.S.H.): Rain of Justice
 Unleashes a devastating rain of bullets that is always pointed towards the enemy player in a straight line! Can be use while floating in the air!
 
 
@@ -62,46 +64,46 @@ Então o que você está esperando? Chame um amigo e batalhe para saber quem é 
 
 ## Guia de Personagem
 ### Ronnie (o cara da espada maior que o corpo dele):
-Defesa: Refletir
-                Entra em postura defensiva que cancela os ataques recebidos e devolve o dano ao oponente.
+ - Defesa: Refletir
+Entra em postura defensiva que cancela os ataques recebidos e devolve o dano ao oponente.
 
 Dica: Segure o comando para manter a postura defensiva, solte para disparar o contra-ataque.
 
-Ataque: Investida
+ - Ataque: Investida
 Realiza uma investida com um ataque rápido no final.
 
-M.U.S.H.: Sobrecarga
+ - M.U.S.H.: Sobrecarga
 Ganha um bônus de ataque, velocidade de movimento e alcance do ataque por um tempo.
 
 
 
 ### Jorge (o cara da shotgun que curte dar mortais):
-Defesa: Retirada Tática
+ - Defesa: Retirada Tática
 Pula para trás deixando uma granada no local que aplica enraizamento no alvo atingido.
 
-Ataque: Granada gravitacional
+ - Ataque: Granada gravitacional
 Derruba uma bomba aérea que atrai o oponente para a área da explosão.
 
 Dica: Pressione uma vez o comando para que o alvo apareça na posição do oponente, mova o alvo para reposicioná-lo ou pressione o comando novamente para derrubar a bomba.
 
-M.U.S.H.: Lança-mísseis
+ - M.U.S.H.: Lança-mísseis
 Equipa uma bazuca temporariamente mudando o projétil disparado.
 
 
 
 ### Buzzy (o cara do revolver que voa com uma jetpack):
-Defesa: Decolar!
+ - Defesa: Decolar!
 Se propulsiona em uma direção e após isso pode se manter flutuando por um período.
 
 Dica: Após o impulso inicial pressione o botão de pulo para se manter no ar pela duração da habilidade.
 
-Ataque: Implantar!
+ - Ataque: Implantar!
 Instala uma turret na direção atual de Buzzy que dispara tiros em linha reta pela duração da habilidade.
 
-M.U.S.H.: Chuva da Justiça
+ - M.U.S.H.: Chuva da Justiça
 Dispara vários tiros seguidos apontados automaticamente em direção ao oponente!
 
 
 
-#### Important disclaimer: the art used in this project was mostly made by Moonstar2D (check out his page at https://opengameart.org/content/2d-game-character-pack-slim-version)! We can't thank him enough for providing us the amazing free assets that he skillfully made!
+### Important disclaimer: the art used in this project was mostly made by Moonstar2D (check out his page at https://opengameart.org/content/2d-game-character-pack-slim-version)! We can't thank him enough for providing us the amazing free assets that he skillfully made!
 
